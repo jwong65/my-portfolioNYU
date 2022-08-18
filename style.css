@@ -4,3 +4,9 @@ body {
 #font-34 {
     font-size:34px;
 }
+img {
+    height:125px;
+}
+.whitetext{
+    color:antiquewhite;
+}
